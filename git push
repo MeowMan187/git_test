@@ -1,0 +1,17 @@
+[33mcommit f93729963d5b3ca4ee58bd44c8627472290474b3[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: MeowMan187 <189626069+MeowMan187@users.noreply.github.com>
+Date:   Thu Dec 5 10:49:31 2024 +0100
+
+    Edit README.md and hello_world.txt
+
+[33mcommit 12f142da58fa295f32042ad7bc52d33ce5c635d5[m
+Author: MeowMan187 <189626069+MeowMan187@users.noreply.github.com>
+Date:   Thu Dec 5 10:30:24 2024 +0100
+
+    Add hello_world.txt
+
+[33mcommit ad09d094d7b3e18ec8b7b13bd69a4d32b2d9e771[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: MeowMan187 <189626069+MeowMan187@users.noreply.github.com>
+Date:   Thu Dec 5 10:13:00 2024 +0100
+
+    Initial commit
